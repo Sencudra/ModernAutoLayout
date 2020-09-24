@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Can You Resize in Code/Can You Resize in Code.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Can You Resize in IB/Can You Resize in IB.xcodeproj">
+   </FileRef>
+</Workspace>
