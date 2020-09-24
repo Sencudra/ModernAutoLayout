@@ -5,15 +5,13 @@ The aim of the first challenge is to create layout using **only Autoresizing** i
 
 <p align="center">
   <img width="500" src="Media/Task.png">
-  <span style="display: block; text-align: center;">Task expectation</span>
+  <br>
+  <span>Task expectation</span>
 </p>
 
 <p align="center">
-  <img width="150" style="padding-right: 20px;" src="Media/Result_1.png">
-  <img width="300" src="Media/Result_2.png">
-  <span style="display: block; text-align: center;">Task results</span>
+	<img width="150" style="padding-right: 20px;" src="Media/Result_1.png">
+	<img width="300" src="Media/Result_2.png">
+	<br>
+  	<span>Task results</span>
 </p>
-
-
-
-
