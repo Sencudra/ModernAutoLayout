@@ -1,4 +1,4 @@
-## Challenge I - "Can You Auto Resize?"
+## Challenge II - "Can You Auto Resize?"
 ### Description
 
 The aim of the first challenge is to create layout using **only Autoresizing** in IB and then in code. Full task as well as the book could be found [here](https://useyourloaf.com/autolayout/).
