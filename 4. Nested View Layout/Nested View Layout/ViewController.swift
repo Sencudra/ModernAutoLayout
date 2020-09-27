@@ -9,11 +9,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var buttonXConstraint: NSLayoutConstraint!
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+        buttonXConstraint.constant = -100
     }
 
+    @IBAction func buttonTapped(_ sender: Any) {
+        buttonXConstraint.constant = 0
+    }
 
 }
 
