@@ -10,3 +10,4 @@ The numbering matches the [book](https://useyourloaf.com/autolayout/):
 - [2. Can You Auto Resize?](https://github.com/Sencudra/ModernAutoLayout/tree/master/1.%20Can%20You%20Auto%20Resize)
 - [3. Creating A Custom View](https://github.com/Sencudra/ModernAutoLayout/tree/master/2.%20Using%20A%20Custom%20View)
 - [4. Nested View Layout and more](https://github.com/Sencudra/ModernAutoLayout/tree/master/4.%20Nested%20View%20Layout)
+- [5. Nested View Layout and more in Code](https://github.com/Sencudra/ModernAutoLayout/tree/master/5.%20Nested%20View%20Layout%20In%20Code)

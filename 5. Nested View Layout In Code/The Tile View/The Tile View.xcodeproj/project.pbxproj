@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		997062BB25225DF20041D758 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997062BA25225DF20041D758 /* AppDelegate.swift */; };
-		997062BF25225DF20041D758 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997062BE25225DF20041D758 /* ViewController.swift */; };
-		997062C725225DF30041D758 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 997062C525225DF30041D758 /* LaunchScreen.storyboard */; };
-		997062D5252262980041D758 /* GreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997062D4252262980041D758 /* GreenView.swift */; };
+		9970630A2522694F0041D758 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997063092522694F0041D758 /* AppDelegate.swift */; };
+		9970630E2522694F0041D758 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9970630D2522694F0041D758 /* ViewController.swift */; };
+		99706316252269500041D758 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99706314252269500041D758 /* LaunchScreen.storyboard */; };
+		99706324252269DC0041D758 /* TileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99706323252269DC0041D758 /* TileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		997062B725225DF20041D758 /* Nested View Layout In Code.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nested View Layout In Code.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		997062BA25225DF20041D758 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		997062BE25225DF20041D758 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		997062C625225DF30041D758 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		997062C825225DF30041D758 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		997062D4252262980041D758 /* GreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenView.swift; sourceTree = "<group>"; };
+		997063062522694F0041D758 /* The Tile View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Tile View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		997063092522694F0041D758 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9970630D2522694F0041D758 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		99706315252269500041D758 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		99706317252269500041D758 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99706323252269DC0041D758 /* TileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		997062B425225DF20041D758 /* Frameworks */ = {
+		997063032522694F0041D758 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -33,38 +33,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		997062AE25225DF20041D758 = {
+		997062FD2522694F0041D758 = {
 			isa = PBXGroup;
 			children = (
-				997062B925225DF20041D758 /* Nested View Layout In Code */,
-				997062B825225DF20041D758 /* Products */,
+				997063082522694F0041D758 /* The Tile View */,
+				997063072522694F0041D758 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		997062B825225DF20041D758 /* Products */ = {
+		997063072522694F0041D758 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				997062B725225DF20041D758 /* Nested View Layout In Code.app */,
+				997063062522694F0041D758 /* The Tile View.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		997062B925225DF20041D758 /* Nested View Layout In Code */ = {
+		997063082522694F0041D758 /* The Tile View */ = {
 			isa = PBXGroup;
 			children = (
-				997062D225225E5A0041D758 /* Support */,
-				997062BA25225DF20041D758 /* AppDelegate.swift */,
-				997062BE25225DF20041D758 /* ViewController.swift */,
-				997062D4252262980041D758 /* GreenView.swift */,
+				99706320252269610041D758 /* Support */,
+				997063092522694F0041D758 /* AppDelegate.swift */,
+				9970630D2522694F0041D758 /* ViewController.swift */,
+				99706323252269DC0041D758 /* TileView.swift */,
 			);
-			path = "Nested View Layout In Code";
+			path = "The Tile View";
 			sourceTree = "<group>";
 		};
-		997062D225225E5A0041D758 /* Support */ = {
+		99706320252269610041D758 /* Support */ = {
 			isa = PBXGroup;
 			children = (
-				997062C825225DF30041D758 /* Info.plist */,
-				997062C525225DF30041D758 /* LaunchScreen.storyboard */,
+				99706314252269500041D758 /* LaunchScreen.storyboard */,
+				99706317252269500041D758 /* Info.plist */,
 			);
 			path = Support;
 			sourceTree = "<group>";
@@ -72,38 +72,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		997062B625225DF20041D758 /* Nested View Layout In Code */ = {
+		997063052522694F0041D758 /* The Tile View */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 997062CB25225DF30041D758 /* Build configuration list for PBXNativeTarget "Nested View Layout In Code" */;
+			buildConfigurationList = 9970631A252269500041D758 /* Build configuration list for PBXNativeTarget "The Tile View" */;
 			buildPhases = (
-				997062B325225DF20041D758 /* Sources */,
-				997062B425225DF20041D758 /* Frameworks */,
-				997062B525225DF20041D758 /* Resources */,
+				997063022522694F0041D758 /* Sources */,
+				997063032522694F0041D758 /* Frameworks */,
+				997063042522694F0041D758 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Nested View Layout In Code";
-			productName = "Nested View Layout In Code";
-			productReference = 997062B725225DF20041D758 /* Nested View Layout In Code.app */;
+			name = "The Tile View";
+			productName = "The Tile View";
+			productReference = 997063062522694F0041D758 /* The Tile View.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		997062AF25225DF20041D758 /* Project object */ = {
+		997062FE2522694F0041D758 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
-					997062B625225DF20041D758 = {
+					997063052522694F0041D758 = {
 						CreatedOnToolsVersion = 12.0;
 					};
 				};
 			};
-			buildConfigurationList = 997062B225225DF20041D758 /* Build configuration list for PBXProject "Nested View Layout In Code" */;
+			buildConfigurationList = 997063012522694F0041D758 /* Build configuration list for PBXProject "The Tile View" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,45 +111,45 @@
 				en,
 				Base,
 			);
-			mainGroup = 997062AE25225DF20041D758;
-			productRefGroup = 997062B825225DF20041D758 /* Products */;
+			mainGroup = 997062FD2522694F0041D758;
+			productRefGroup = 997063072522694F0041D758 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				997062B625225DF20041D758 /* Nested View Layout In Code */,
+				997063052522694F0041D758 /* The Tile View */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		997062B525225DF20041D758 /* Resources */ = {
+		997063042522694F0041D758 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				997062C725225DF30041D758 /* LaunchScreen.storyboard in Resources */,
+				99706316252269500041D758 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		997062B325225DF20041D758 /* Sources */ = {
+		997063022522694F0041D758 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				997062D5252262980041D758 /* GreenView.swift in Sources */,
-				997062BF25225DF20041D758 /* ViewController.swift in Sources */,
-				997062BB25225DF20041D758 /* AppDelegate.swift in Sources */,
+				99706324252269DC0041D758 /* TileView.swift in Sources */,
+				9970630E2522694F0041D758 /* ViewController.swift in Sources */,
+				9970630A2522694F0041D758 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		997062C525225DF30041D758 /* LaunchScreen.storyboard */ = {
+		99706314252269500041D758 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				997062C625225DF30041D758 /* Base */,
+				99706315252269500041D758 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -157,7 +157,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		997062C925225DF30041D758 /* Debug */ = {
+		99706318252269500041D758 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -218,7 +218,7 @@
 			};
 			name = Debug;
 		};
-		997062CA25225DF30041D758 /* Release */ = {
+		99706319252269500041D758 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -273,38 +273,38 @@
 			};
 			name = Release;
 		};
-		997062CC25225DF30041D758 /* Debug */ = {
+		9970631B252269500041D758 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZPNFSD9RWC;
-				INFOPLIST_FILE = "Nested View Layout In Code/Support/Info.plist";
+				INFOPLIST_FILE = "The Tile View/Support/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.study.modernautolayout.vstarasevich.Nested-View-Layout-In-Code";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.study.modernautolayout.vstarasevich.The-Tile-View";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		997062CD25225DF30041D758 /* Release */ = {
+		9970631C252269500041D758 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZPNFSD9RWC;
-				INFOPLIST_FILE = "Nested View Layout In Code/Support/Info.plist";
+				INFOPLIST_FILE = "The Tile View/Support/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.study.modernautolayout.vstarasevich.Nested-View-Layout-In-Code";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.study.modernautolayout.vstarasevich.The-Tile-View";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -314,25 +314,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		997062B225225DF20041D758 /* Build configuration list for PBXProject "Nested View Layout In Code" */ = {
+		997063012522694F0041D758 /* Build configuration list for PBXProject "The Tile View" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				997062C925225DF30041D758 /* Debug */,
-				997062CA25225DF30041D758 /* Release */,
+				99706318252269500041D758 /* Debug */,
+				99706319252269500041D758 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		997062CB25225DF30041D758 /* Build configuration list for PBXNativeTarget "Nested View Layout In Code" */ = {
+		9970631A252269500041D758 /* Build configuration list for PBXNativeTarget "The Tile View" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				997062CC25225DF30041D758 /* Debug */,
-				997062CD25225DF30041D758 /* Release */,
+				9970631B252269500041D758 /* Debug */,
+				9970631C252269500041D758 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 997062AF25225DF20041D758 /* Project object */;
+	rootObject = 997062FE2522694F0041D758 /* Project object */;
 }

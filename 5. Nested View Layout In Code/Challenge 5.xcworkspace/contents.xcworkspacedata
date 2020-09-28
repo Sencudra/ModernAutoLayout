@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:The Tile View/The Tile View.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Nested View Layout In Code.xcodeproj">
    </FileRef>
 </Workspace>

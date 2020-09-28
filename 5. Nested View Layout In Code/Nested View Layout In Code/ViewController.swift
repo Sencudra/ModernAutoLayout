@@ -10,12 +10,16 @@ import UIKit
 @IBDesignable
 class ViewController: UIViewController {
 
+    // MARK: - Overrides
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
         view.backgroundColor = .yellow
         addGreenView()
     }
+
+    // MARK: - Private methods
 
     private func addGreenView() {
         let greenView = GreenView()
