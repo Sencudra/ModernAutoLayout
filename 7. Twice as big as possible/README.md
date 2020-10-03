@@ -30,7 +30,7 @@ The aim of the seventh challenge is to study instristic size behaviour and conte
   <img width="160" src="Media/Result_5.png">
   <img width="300" src="Media/Result_6.png">
   <br>
-  <span>"A big as possible" expectation and results</span>
+  <span>"As big as possible" expectation and results</span>
 </p>
 
 
