@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Show The Secret Code/Show The Secret Code.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Stretch To Fill/Stretch To Fill.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Fixed Width, Flexible Height/Fixed Width, Flexible Height.xcodeproj">
+   </FileRef>
+</Workspace>
