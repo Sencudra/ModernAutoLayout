@@ -13,4 +13,4 @@ The numbering matches the [book](https://useyourloaf.com/autolayout/):
 - [5. Nested View Layout and more in code](https://github.com/Sencudra/ModernAutoLayout/tree/master/5.%20Nested%20View%20Layout%20In%20Code)
 - [6. Margins in IB and in code](https://github.com/Sencudra/ModernAutoLayout/tree/master/6.%20Margings%20In%20IB%20and%20in%20Code)
 - [7. Twice as big as possible](https://github.com/Sencudra/ModernAutoLayout/tree/master/7.%20Twice%20as%20big%20as%20possible)
-- [8. Stack Views]()
+- [8. Stack Views](https://github.com/Sencudra/ModernAutoLayout/tree/master/8.%20StackView)
