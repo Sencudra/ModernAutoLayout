@@ -57,10 +57,8 @@
 			isa = PBXGroup;
 			children = (
 				99C34038252A577E0097CE26 /* Support */,
-				99C34027252A57780097CE26 /* ViewController.swift */,
 				99C3403B252A5C3D0097CE26 /* PanicView.swift */,
-				99C34029252A57780097CE26 /* Main.storyboard */,
-				99C34031252A577A0097CE26 /* Info.plist */,
+				99C3402E252A577A0097CE26 /* LaunchScreen.storyboard */,
 			);
 			path = "Overriding the layout engine";
 			sourceTree = "<group>";
@@ -68,8 +66,10 @@
 		99C34038252A577E0097CE26 /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				99C34029252A57780097CE26 /* Main.storyboard */,
 				99C34023252A57780097CE26 /* AppDelegate.swift */,
-				99C3402E252A577A0097CE26 /* LaunchScreen.storyboard */,
+				99C34031252A577A0097CE26 /* Info.plist */,
+				99C34027252A57780097CE26 /* ViewController.swift */,
 				99C34025252A57780097CE26 /* SceneDelegate.swift */,
 			);
 			path = Support;
@@ -296,7 +296,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZPNFSD9RWC;
-				INFOPLIST_FILE = "Overriding the layout engine/Info.plist";
+				INFOPLIST_FILE = "Overriding the layout engine/Support/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -315,7 +315,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZPNFSD9RWC;
-				INFOPLIST_FILE = "Overriding the layout engine/Info.plist";
+				INFOPLIST_FILE = "Overriding the layout engine/Support/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

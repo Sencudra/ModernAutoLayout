@@ -57,7 +57,6 @@
 				99C34013252A567C0097CE26 /* Support */,
 				99C34001252A3E520097CE26 /* ViewController.swift */,
 				99C34003252A3E520097CE26 /* Main.storyboard */,
-				99C3400B252A3E530097CE26 /* Info.plist */,
 			);
 			path = "Animating Constraints";
 			sourceTree = "<group>";
@@ -65,6 +64,7 @@
 		99C34013252A567C0097CE26 /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				99C3400B252A3E530097CE26 /* Info.plist */,
 				99C33FFD252A3E520097CE26 /* AppDelegate.swift */,
 				99C34008252A3E530097CE26 /* LaunchScreen.storyboard */,
 				99C33FFF252A3E520097CE26 /* SceneDelegate.swift */,
@@ -292,7 +292,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZPNFSD9RWC;
-				INFOPLIST_FILE = "Animating Constraints/Info.plist";
+				INFOPLIST_FILE = "Animating Constraints/Support/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,7 +311,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZPNFSD9RWC;
-				INFOPLIST_FILE = "Animating Constraints/Info.plist";
+				INFOPLIST_FILE = "Animating Constraints/Support/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

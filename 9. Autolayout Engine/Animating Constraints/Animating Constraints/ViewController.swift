@@ -9,14 +9,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    // MARK: - Types
+    // MARK: - Private types
 
-    enum Speed {
+    private enum Speed {
         case slow
         case fast
     }
 
-    // MARK: - Properties
+    // MARK: - Private properties
 
     private var speed: Speed = .slow {
         didSet {
@@ -26,24 +26,14 @@ class ViewController: UIViewController {
         }
     }
 
-    @IBOutlet var slowHeightConstraint: NSLayoutConstraint!
-    @IBOutlet var fastHeightConstraint: NSLayoutConstraint!
+    @IBOutlet private var slowHeightConstraint: NSLayoutConstraint!
+    @IBOutlet private var fastHeightConstraint: NSLayoutConstraint!
 
     // MARK: - Overrides
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-    }
-
-    // MARK: - User actions
-
-    @IBAction func slowTapped(_ sender: Any) {
-        speed = .slow
-    }
-
-    @IBAction func fastTapped(_ sender: Any) {
-        speed = .fast
     }
 
     // MARK: - Private methods
@@ -65,5 +55,14 @@ class ViewController: UIViewController {
         animator.startAnimation()
     }
 
-}
+    // MARK: - User actions
 
+    @IBAction func slowTapped(_ sender: Any) {
+        speed = .slow
+    }
+
+    @IBAction func fastTapped(_ sender: Any) {
+        speed = .fast
+    }
+
+}
