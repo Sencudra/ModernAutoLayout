@@ -16,4 +16,4 @@ The numbering matches the [book](https://useyourloaf.com/autolayout/):
 - [8. Stack Views](https://github.com/Sencudra/ModernAutoLayout/tree/master/8.%20StackViews)
 - [9. Autolayout Engine](https://github.com/Sencudra/ModernAutoLayout/tree/master/9.%20Autolayout%20Engine)
 - [11. Scroll Views](https://github.com/Sencudra/ModernAutoLayout/tree/master/11.%20Scroll%20Views)
-- [12. Dynamic Type]()
+- [12. Dynamic Type](https://github.com/Sencudra/ModernAutoLayout/tree/master/12.%20Dynamic%20Type)

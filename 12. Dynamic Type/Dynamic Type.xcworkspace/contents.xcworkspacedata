@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Changing A Text Style/Changing A Text Style.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Using Dynamic Type/Using Dynamic Type.xcodeproj">
    </FileRef>
 </Workspace>
