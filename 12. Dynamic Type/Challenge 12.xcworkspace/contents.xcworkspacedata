@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Changing A Text Style/Using A Custom Font/Using A Custom Font.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Changing A Text Style/Changing A Text Style.xcodeproj">
    </FileRef>
    <FileRef

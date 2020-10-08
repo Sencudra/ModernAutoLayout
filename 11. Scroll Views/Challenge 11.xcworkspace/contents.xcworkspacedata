@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Scrolling A Stack View/Floating Content/Floating Content.xcodeproj">
+      location = "group:Floating Content/Floating Content.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Scrolling A Stack View/Scrolling A Stack View.xcodeproj">
