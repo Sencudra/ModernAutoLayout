@@ -2,7 +2,7 @@
 ## Modern Auto Layout Challenges Breakdown
 
 ### Overview
-This repository contains solutions to challenges from one of my favorite books on iOS Development: **Modern Auto Layout: Creating Responsive Layouts for iOS**. The book also has a set of exercises after each chapter to consolidate the material in practice. The book could be found [**here**](https://useyourloaf.com/autolayout/).
+This repository contains solutions to challenges (which could be much much harder) from one of my favorite books on iOS Development: **Modern Auto Layout: Creating Responsive Layouts for iOS**. The book also has a set of exercises after each chapter to consolidate the material in practice. The book could be found [**here**](https://useyourloaf.com/autolayout/).
 
 ### Completed challenges
 The numbering matches the [book](https://useyourloaf.com/autolayout/):
@@ -17,4 +17,5 @@ The numbering matches the [book](https://useyourloaf.com/autolayout/):
 - [9. Autolayout Engine](https://github.com/Sencudra/ModernAutoLayout/tree/master/9.%20Autolayout%20Engine)
 - [11. Scroll Views](https://github.com/Sencudra/ModernAutoLayout/tree/master/11.%20Scroll%20Views)
 - [12. Dynamic Type](https://github.com/Sencudra/ModernAutoLayout/tree/master/12.%20Dynamic%20Type)
-- [13. Table Views]()
+- [13. Table Views](https://github.com/Sencudra/ModernAutoLayout/tree/master/13.%20Table%20Views)
+- [14. Adapting for size: size classes, traits]()
