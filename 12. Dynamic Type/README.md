@@ -1,7 +1,7 @@
 ## Challenge XII - "Dynamic type"
 ### Description
 
-The aim of the twelfth challenge is to practise use of Dynamic Type in terms of using with system, custom fonts and modified with UIFontDescriptor. Full task as well as the book could be found [here](https://useyourloaf.com/autolayout/).
+The aim of the twelfth challenge is to practise use of Dynamic Type in terms of using with system, custom and modified with UIFontDescriptor fonts. Full task as well as the book could be found [here](https://useyourloaf.com/autolayout/).
 
 
 <p align="center">
